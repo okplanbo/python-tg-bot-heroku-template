@@ -1,5 +1,7 @@
 Here's a compact guide to setting up a Telegram bot hosted on Heroku, using GitHub for version control, and deploying via automatic builds:
 
+Replace 'mybot' with desired bot name if you want. Don't forget about mybot.py entry point file.
+
 ### Step 1: Register on Heroku and Create an App
 
 -   Sign Up: Go to [Heroku](https://heroku.com/) and sign up for an account.
